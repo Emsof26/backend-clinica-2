@@ -4,6 +4,11 @@ function App() {
   return (
     <>
       <Navbar />
+
+      <main className="main-content">
+        <h2>Bienvenido a MarketPlace</h2>
+        <p>Explora productos, ofertas y tu perfil.</p>
+      </main>
     </>
   );
 }
